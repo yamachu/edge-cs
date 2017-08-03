@@ -1,6 +1,8 @@
 edge-cs
 =======
 
+> This repository is fork of https://github.com/tjanczuk/edge-cs to make available bulid with latest .NETCore SDK.
+
 This is a C# compiler for edge.js.
 
 See [edge.js overview](http://tjanczuk.github.com/edge) and [edge.js on GitHub](https://github.com/tjanczuk/egde) for more information. 
