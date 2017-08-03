@@ -1,5 +1,5 @@
 {
-  "name": "edge-cs",
+  "name": "@yamachu/edge-cs",
   "author": {
     "name": "Tomasz Janczuk <tomasz@janczuk.org>",
     "url": "http://tomasz.janczuk.org",
@@ -16,10 +16,10 @@
   "homepage": "http://tjanczuk.github.com/edge",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tjanczuk/edge-cs.git"
+    "url": "git@github.com:yamachu/edge-cs.git"
   },
   "bugs" : {
-    "url" : "http://github.com/tjanczuk/edge-cs/issues"
+    "url" : "http://github.com/yamachu/edge-cs/issues"
   },
   "scripts": {
     "install": "node tools/install.js"
